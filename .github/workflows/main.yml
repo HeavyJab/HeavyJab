@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       - name: Generate README
-        run: python generate.py
+        run: python meme.py
 
       - name: Commit README
         run: |
