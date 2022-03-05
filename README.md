@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/vqpw2gltrkl81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/ix0bbdjstcl81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Hopefully this makes you laugh</h3>
+        <h3 align="center">Me irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
