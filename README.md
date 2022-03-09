@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/b5o0gdd5l8m81.gif" width="600" height="600">
+        <img src="https://i.redd.it/23z9aa9xpcm81.gif" width="600" height="600">
         </p>
-        <h3 align="center">The show goes on</h3>
+        <h3 align="center">She's so interested</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
