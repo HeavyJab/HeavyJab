@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/y3h4ou8ykdn81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/qguzvczoidn81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">shitposting memes till i cure my depression . day : 1</h3>
+        <h3 align="center">Let's Xi what happens</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
