@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/oy4hi3ydcxn81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/sfn8nj4c5zn81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">such good friendships</h3>
+        <h3 align="center">I don’t know</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
