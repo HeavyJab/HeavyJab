@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/cyb90j1b2wn81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/idzristg93o81.png" width="600" height="600">
         </p>
-        <h3 align="center">Me_irl</h3>
+        <h3 align="center">Your Acrobatics level has increased to 47.</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
