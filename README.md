@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/kndak2cejqo81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/7ex5a7ec0po81.gif" width="600" height="600">
         </p>
-        <h3 align="center">Me_irl</h3>
+        <h3 align="center">Eternally welded</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
