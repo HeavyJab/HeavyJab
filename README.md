@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/3nugtog25po81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/ckw9ss9zkoo81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Chocolate or Strawberry?</h3>
+        <h3 align="center">I love this game but seriously guys</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
