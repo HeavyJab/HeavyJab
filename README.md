@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/zb53hqmze4p81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/yzfx1tudi6p81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Based on a true story</h3>
+        <h3 align="center">me_irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
