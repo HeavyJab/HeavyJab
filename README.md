@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/lprx4r3ha6p81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/ac880lx0i4p81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">A true American patriot</h3>
+        <h3 align="center">Keep you fuckin mouth shut, will ya?</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
