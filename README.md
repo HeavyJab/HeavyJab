@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/1mhy2ouv26p81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/375o315a84p81.gif" width="600" height="600">
         </p>
-        <h3 align="center">Ants masterrace</h3>
+        <h3 align="center">trust me</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
