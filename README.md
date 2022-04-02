@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/7pz34n90m0r81.png" width="600" height="600">
+        <img src="https://i.redd.it/mi4tdmr9q5r81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Its ok to like different things.</h3>
+        <h3 align="center">Both are struggling 🗿</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
