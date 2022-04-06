@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/0k3wsp28yxr81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/u37zjoi1dur81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Well yes but actually no</h3>
+        <h3 align="center">Title</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
