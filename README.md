@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/vgw9tscmbvw81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/rqz2cm63rvw81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Just 5 more minutes mom</h3>
+        <h3 align="center">i still don't know</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
