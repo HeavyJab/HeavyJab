@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/j3wn4hpgz4x81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/gfcirbkwn7x81.gif" width="600" height="600">
         </p>
-        <h3 align="center">say it the right way</h3>
+        <h3 align="center">don't take about Elon Musk</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
