@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/es6ift6urpx81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/7grhexgk6nx81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">me irl</h3>
+        <h3 align="center">"Is just not possible"</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
