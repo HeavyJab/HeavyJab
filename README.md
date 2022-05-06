@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/pjydu3s0glx81.gif" width="600" height="600">
+        <img src="https://i.redd.it/0mg642f4zox81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Literally every Regular Show episode</h3>
+        <h3 align="center">We didn’t plan this far ahead</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
