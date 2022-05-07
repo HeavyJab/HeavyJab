@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/h2w5v5tm1wx81.jpg" width="600" height="600">
+        <img src="https://i.redd.it/pew7k2gtqxx81.jpg" width="600" height="600">
         </p>
-        <h3 align="center">something something oh no</h3>
+        <h3 align="center">You can probably relate if you’re a cat owner. 😉</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
