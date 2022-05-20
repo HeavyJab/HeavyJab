@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/s9f0ngqchd091.gif" width="600" height="600">
+        <img src="https://i.redd.it/cav285xgbi091.png" width="600" height="600">
         </p>
-        <h3 align="center">6 month supply of dog biccies</h3>
+        <h3 align="center">current objective: survive</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
