@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/wtqbmowgnm091.gif" width="600" height="600">
+        <img src="https://i.redd.it/syfbiyr63o091.gif" width="600" height="600">
         </p>
-        <h3 align="center">fuckin told you doofuses</h3>
+        <h3 align="center">Why am I crashing</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
