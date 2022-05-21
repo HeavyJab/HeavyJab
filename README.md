@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/igocvfrnpm091.gif" width="600" height="600">
+        <img src="https://i.redd.it/hxd38rgx1p091.jpg" width="600" height="600">
         </p>
-        <h3 align="center">I'd love to listen but...</h3>
+        <h3 align="center">Every time</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
