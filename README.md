@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/f6ffg2ceqw091.png" width="600" height="600">
+        <img src="https://i.redd.it/3zxfm18r7w091.jpg" width="600" height="600">
         </p>
-        <h3 align="center">STOP TAKING ALL THE SOUNDWAVES</h3>
+        <h3 align="center">I'm blinded by the lights...</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
