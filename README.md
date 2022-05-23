@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/b8izcj60f0191.gif" width="600" height="600">
+        <img src="https://i.redd.it/7220pbpd36191.png" width="600" height="600">
         </p>
-        <h3 align="center">Please stop it</h3>
+        <h3 align="center">just get of the computer</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
