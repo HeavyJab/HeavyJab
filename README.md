@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/dln8gtjiko191.jpg" width="600" height="600">
+        <img src="https://i.redd.it/4px9cz2q0m191.gif" width="600" height="600">
         </p>
-        <h3 align="center">Begone and let thy shop in peace</h3>
+        <h3 align="center">nice stick bro</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
