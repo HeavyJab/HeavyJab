@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/fwe4n2yytq291.jpg" width="600" height="600">
+        <img src="https://i.redd.it/9vidxbepzq291.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Pls stop</h3>
+        <h3 align="center">Gotta stop questioning game logics and make jokes of them instead</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
