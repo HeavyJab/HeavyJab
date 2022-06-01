@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/ionea5s6ws291.png" width="600" height="600">
+        <img src="https://i.redd.it/ax0d0r7fwu291.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Bitch!</h3>
+        <h3 align="center">me_irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
