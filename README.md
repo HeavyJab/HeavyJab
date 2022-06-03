@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/jd1vvmyhi5391.gif" width="600" height="600">
+        <img src="https://i.redd.it/km8ndv9v4b391.jpg" width="600" height="600">
         </p>
-        <h3 align="center">maybe if I just stop responding they'll get the hint</h3>
+        <h3 align="center">me_irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
