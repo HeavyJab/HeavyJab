@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/i0o715c2vc391.jpg" width="600" height="600">
+        <img src="https://i.redd.it/7po25jvujc391.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Not being inclusive</h3>
+        <h3 align="center">nuggies moment</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
