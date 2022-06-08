@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/84ow037x98491.jpg" width="600" height="600">
+        <img src="https://i.redd.it/7tgxn9ou8d491.png" width="600" height="600">
         </p>
-        <h3 align="center">This one here is a violation personally i wouldn't have it</h3>
+        <h3 align="center">Zoomiest</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
