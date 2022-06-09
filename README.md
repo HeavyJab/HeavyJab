@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/ooegi58hii491.jpg" width="600" height="600">
+        <img src="https://i.redd.it/mb6d2dxvvc491.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Seriously, why is light mode standard?</h3>
+        <h3 align="center">Nothing happened on this picture</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
