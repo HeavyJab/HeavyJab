@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/gkex3uw5rk591.jpg" width="600" height="600">
+        <img src="https://i.redd.it/e15czzu31k591.png" width="600" height="600">
         </p>
-        <h3 align="center">the cost of speeding tickets</h3>
+        <h3 align="center">And Amen</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
