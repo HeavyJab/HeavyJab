@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/j0ux35ynot691.gif" width="600" height="600">
+        <img src="https://i.redd.it/fgjalrmdfu691.gif" width="600" height="600">
         </p>
-        <h3 align="center">Checkmate</h3>
+        <h3 align="center">Goofin with the boys</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
