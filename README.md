@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/77p8u13k4j791.jpg" width="600" height="600">
+        <img src="https://i.redd.it/otfmr28tdj791.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Keeping safe with my portable sun</h3>
+        <h3 align="center">Edp-420</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
