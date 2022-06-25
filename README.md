@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/7rnu2pi1ol791.jpg" width="600" height="600">
+        <img src="https://i.redd.it/070r868o4r791.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Anyone else?</h3>
+        <h3 align="center">summoning an undead to do the job</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
