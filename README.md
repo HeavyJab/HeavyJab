@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/io5ru835kf791.png" width="600" height="600">
+        <img src="https://i.redd.it/m1y1tphkiq791.jpg" width="600" height="600">
         </p>
-        <h3 align="center">me irl</h3>
+        <h3 align="center">Imagine being morally inferior to the Br*tish</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
