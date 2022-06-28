@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/e9sdne723c891.gif" width="600" height="600">
+        <img src="https://i.redd.it/dtowjhjpq4891.jpg" width="600" height="600">
         </p>
-        <h3 align="center">That's 1 minute</h3>
+        <h3 align="center">Recycling was a thing...</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
