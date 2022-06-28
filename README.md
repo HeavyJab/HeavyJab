@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.imgur.com/Ac7Ahqj.jpg" width="600" height="600">
+        <img src="https://i.redd.it/wg1mu376te891.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Me_irl</h3>
+        <h3 align="center">0% Intrest</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
