@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/t4rmmn8veea91.gif" width="600" height="600">
+        <img src="https://i.redd.it/qr3472k4ada91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">The dildo paradox</h3>
+        <h3 align="center">Anarcho-Sydicalist Commune FTW</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
