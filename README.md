@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/d4i1ncsf88c91.png" width="600" height="600">
+        <img src="https://i.redd.it/vz1ip3s8h6c91.gif" width="600" height="600">
         </p>
-        <h3 align="center">Made with Microsoft Word</h3>
+        <h3 align="center">So they have chosen death</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
