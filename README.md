@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/o4yfuekibjc91.gif" width="600" height="600">
+        <img src="https://i.redd.it/6dnrkrsjflc91.png" width="600" height="600">
         </p>
-        <h3 align="center">You wanna get shot, boy?</h3>
+        <h3 align="center">No title card!</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
