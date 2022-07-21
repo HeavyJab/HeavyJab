@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/ns2zd5db5vc91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/bv8gscnaxtc91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">laef hek</h3>
+        <h3 align="center">Hammond, turn your mic on.</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
