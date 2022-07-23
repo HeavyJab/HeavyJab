@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/40d5ljknc3d91.jpg" width="600" height="600">
+        <img src="https://i.imgur.com/RFRfXaD.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Praise the deer</h3>
+        <h3 align="center">thots and prayers</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
