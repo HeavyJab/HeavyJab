@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/tar7uijqm3d91.gif" width="600" height="600">
+        <img src="https://i.redd.it/40d5ljknc3d91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">why always me?</h3>
+        <h3 align="center">Praise the deer</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
