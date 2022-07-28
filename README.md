@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.imgur.com/xOTSl3J.jpg" width="600" height="600">
+        <img src="https://i.redd.it/zycim1gva5e91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">I have a 4 second attention sp</h3>
+        <h3 align="center">Me_irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
