@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/5ad70fxq5rf91.png" width="600" height="600">
+        <img src="https://i.redd.it/24d88juenvf91.gif" width="600" height="600">
         </p>
-        <h3 align="center">Me_irl</h3>
+        <h3 align="center">Brushy, brushy</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
