@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/xkbyi78qq2i91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/9x8t9a4cx1i91.png" width="600" height="600">
         </p>
-        <h3 align="center">Hmm, maybe there's something new inside...</h3>
+        <h3 align="center">relationship memes &gt;:(</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
