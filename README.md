@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/iwe61hszsfi91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/6n3vk8vnwei91.gif" width="600" height="600">
         </p>
-        <h3 align="center">Title</h3>
+        <h3 align="center">SPF 100+ Required</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
