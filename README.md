@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/7eml1gzhpdi91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/5i2mjvwd1fi91.png" width="600" height="600">
         </p>
-        <h3 align="center">DAMA time</h3>
+        <h3 align="center">Hail adblocker</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
