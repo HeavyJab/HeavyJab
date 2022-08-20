@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/x7wbdpf5uqi91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/kgrxcgurfti91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">The ultimate goal</h3>
+        <h3 align="center">When I fly with my parents.</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
