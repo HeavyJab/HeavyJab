@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/q6v83ol9t3j91.png" width="600" height="600">
+        <img src="https://i.redd.it/ddue6iv3u1j91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Girlfriends these days</h3>
+        <h3 align="center">Just a fact</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
