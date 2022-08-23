@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/99of7kmwf6j91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/rqbb2ew7lbj91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Won't be much different.</h3>
+        <h3 align="center">Happy ending</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
