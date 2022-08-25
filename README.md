@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/q5ghd9vk91j91.png" width="600" height="600">
+        <img src="https://i.redd.it/aelruz535tj91.gif" width="600" height="600">
         </p>
-        <h3 align="center">Me_irl</h3>
+        <h3 align="center">Wanna fight about it</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
