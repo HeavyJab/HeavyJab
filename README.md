@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/bv3jmlav3hk91.png" width="600" height="600">
+        <img src="https://i.redd.it/ol01ceiebhk91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Sometimes ya'll forget where we started</h3>
+        <h3 align="center">That'll take some getting used to</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
