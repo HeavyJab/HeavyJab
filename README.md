@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/8e27x8wb6ik91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/ev4xp7c1lnk91.gif" width="600" height="600">
         </p>
-        <h3 align="center">I better practice</h3>
+        <h3 align="center">I admit, I like to watch it with him</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
