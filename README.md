@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/qbm3h9i3f6k91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/t7ox3f70zok91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Me_irl</h3>
+        <h3 align="center">for better or for worse , till death do us apart ....</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
