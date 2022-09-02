@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/dcvwuaw1xal91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/ovd7i95swbl91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">My intellect, it's sometimes scary</h3>
+        <h3 align="center">cuiousine</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
