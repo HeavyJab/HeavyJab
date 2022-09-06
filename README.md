@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/q88pgd19dwl91.png" width="600" height="600">
+        <img src="https://i.redd.it/ns9gd5omj2m91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">get validated dangit</h3>
+        <h3 align="center">Where's my mew-mobile?</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
