@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/1jh79yimxdn91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/7t0cclbkxcn91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Some plots are just legendary</h3>
+        <h3 align="center">fond memories</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
