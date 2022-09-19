@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/dmssvuy9dqo91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/1cktald4lpo91.gif" width="600" height="600">
         </p>
-        <h3 align="center">America, Fuck yeah.</h3>
+        <h3 align="center">stupid physics and your restrictions</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
