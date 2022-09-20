@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/wu1ecqe6bvo91.png" width="600" height="600">
+        <img src="https://i.redd.it/xd72sw63nto91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Crime is a tough business</h3>
+        <h3 align="center">DarthVaderScream.mp3</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
