@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/8y1l4su7yqo91.png" width="600" height="600">
+        <img src="https://i.redd.it/qpqoqxgcsbp91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">me_irl</h3>
+        <h3 align="center">Still relevant</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
