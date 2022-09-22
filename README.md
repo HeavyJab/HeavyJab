@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/m43lvkf3rdp91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/i57oc21dqap91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Winter is comming</h3>
+        <h3 align="center">It’s not fucking fair</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
