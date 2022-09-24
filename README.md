@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/12zwn2808kp91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/c39x5kcdgnp91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Maybe Abdul if they're lucky.</h3>
+        <h3 align="center">Respect women, don't be creepy</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
