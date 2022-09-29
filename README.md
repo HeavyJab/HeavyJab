@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/pmf3y47uxsq91.png" width="600" height="600">
+        <img src="https://i.redd.it/syo4zo0usuq91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">You make the move</h3>
+        <h3 align="center">Accurate</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
