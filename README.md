@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/vfvqp2567pq91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/v5o5t9xj8qq91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">It’s a cycle that never ends</h3>
+        <h3 align="center">power of rejecting modernity</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
