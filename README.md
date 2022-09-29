@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/c35bq6xeomq91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/1s8ycuinpkq91.png" width="600" height="600">
         </p>
-        <h3 align="center">big brain time</h3>
+        <h3 align="center">As a fast-food worker I can relate</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
