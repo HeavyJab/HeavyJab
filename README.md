@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/0lv9w9kfu1r91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/lo91p045n1r91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">You gotta do what you gotta do</h3>
+        <h3 align="center">please god no, I just want to leave</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
