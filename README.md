@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.imgur.com/X9e7SMz.gif" width="600" height="600">
+        <img src="https://i.redd.it/gnwoybppodr91.gif" width="600" height="600">
         </p>
-        <h3 align="center">liars</h3>
+        <h3 align="center">A new painter is rising</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
