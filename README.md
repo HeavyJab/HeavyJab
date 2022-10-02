@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/ldviz4srndr91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/4b20gff1vdr91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">So i got this SpongeBob meme figure and made this!</h3>
+        <h3 align="center">me irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
