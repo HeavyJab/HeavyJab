@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/ddv40mo7mjr91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/swrxyxjafkr91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">What an Idea!</h3>
+        <h3 align="center">The everyday life of a smoker</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
