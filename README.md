@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/atx6tgrb9ur91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/54dgqqaa2vr91.gif" width="600" height="600">
         </p>
-        <h3 align="center">This is what they keep in Area 51</h3>
+        <h3 align="center">You son of a God</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
