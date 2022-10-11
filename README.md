@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/6qeh59cnvzs91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/s6engcd674t91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Come and take it.</h3>
+        <h3 align="center">Yikes 🤡</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
