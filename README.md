@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/ynmup50gubt91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/69nva6rj3et91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">this whole timeline is cursed...</h3>
+        <h3 align="center">Technically they are…</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
