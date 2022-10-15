@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/9bf8qi1wtzt91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/e23wet81wzt91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Real good protest guys. You sure showed him</h3>
+        <h3 align="center">now I'm curious</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
