@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/d8aql807kdu91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/fpgl6o42ieu91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Swedish goat</h3>
+        <h3 align="center">Credit:- someguy on reddit</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
