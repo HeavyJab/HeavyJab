@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/3m1y6v0fwou91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/0mq3g8ggzsu91.png" width="600" height="600">
         </p>
-        <h3 align="center">fr I actually thought it was just a massive inside joke</h3>
+        <h3 align="center">me_irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
