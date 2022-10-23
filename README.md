@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/z76buiyosjv91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/lzj03jxrghv91.png" width="600" height="600">
         </p>
-        <h3 align="center">"rick rick rick rick" -Soulja boy</h3>
+        <h3 align="center">He tried to keep it for himself all this time</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
