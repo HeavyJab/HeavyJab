@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/csvlzn2b6vx91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/0gstzcp85qx91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">(OC) for the very first time in my life and history of fav songs</h3>
+        <h3 align="center">Games of Thrones</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
