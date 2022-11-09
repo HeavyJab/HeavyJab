@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/892hw7c7avy91.png" width="600" height="600">
+        <img src="https://i.redd.it/6cxtc51f8uy91.gif" width="600" height="600">
         </p>
-        <h3 align="center">Mere mortals...</h3>
+        <h3 align="center">still look like shit tho</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
