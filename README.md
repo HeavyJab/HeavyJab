@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/e4dt0zpeh8z91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/r64ul4nypaz91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">What can you come up with</h3>
+        <h3 align="center">and the world keeps spinning</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
