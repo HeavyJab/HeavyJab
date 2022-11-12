@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/0vbv845xdhz91.jpg" width="600" height="600">
+        <img src="https://i.redd.it/29yf6wm0bjz91.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Didn’t see that one coming…</h3>
+        <h3 align="center">free homework</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
