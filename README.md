@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.redd.it/64oxtprrzq0a1.jpg" width="600" height="600">
+        <img src="https://i.redd.it/lx9l5y7e1r0a1.png" width="600" height="600">
         </p>
-        <h3 align="center">love how they're always straight to the point</h3>
+        <h3 align="center">real</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
