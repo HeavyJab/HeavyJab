@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.imgur.com/OFZX7i0.gif" width="600" height="600">
+        <img src="https://i.redd.it/xwik8yyag22a1.jpg" width="600" height="600">
         </p>
-        <h3 align="center">It's easy and it's free</h3>
+        <h3 align="center">Society</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
