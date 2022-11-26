@@ -1,6 +1,6 @@
 <p align="center">
-        <img src="https://i.imgur.com/epNRfRa.jpg" width="600" height="600">
+        <img src="https://i.redd.it/262o9w10p12a1.jpg" width="600" height="600">
         </p>
-        <h3 align="center">Everything is cheese these days</h3>
+        <h3 align="center">me_irl</h3>
         <h3 align="center">*Randomly generated meme every hour</h3>
     
